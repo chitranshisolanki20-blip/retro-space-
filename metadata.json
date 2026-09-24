@@ -2,6 +2,7 @@
   "name": "Retro Space Invaders",
   "description": "A complete, authentic arcade Space Invaders game featuring destructible shields, pixel art aliens, procedural 8-bit sound effects, and classic wave progression.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
